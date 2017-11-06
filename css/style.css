@@ -1,7 +1,7 @@
 .myIframe {
 	/* position: relative; */
-	padding-bottom: 30px;
-	padding-top: 30px;
+	padding-bottom: 100%;
+	padding-top: 100%;
 }
 
 .myIframe iframe {
